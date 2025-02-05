@@ -43,7 +43,7 @@ Data Science Enthusiast | Machine Learning Practitioner
     <a href="https://wa.me/9380383057" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="50" height="50">
     </a>
-    <a href="https://https://cf818b7f.vipages.pages.dev/" target="_blank">
+    <a href="https://cf818b7f.vipages.pages.dev" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png" alt="Website" width="50" height="50">
     </a>
     <a href="https://devfolio.co/@vini501" target="_blank">
