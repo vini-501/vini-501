@@ -1,5 +1,6 @@
 # Hi, I'm Vini 👋
-Data Science Enthusiast | Machine Learning Practitioner
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=32CD32&left=true&vleft=true&width=435&lines=Data+Science+Enthusiast;Machine+Learning+Practitioner" alt="Typing SVG" />
 
 
 
