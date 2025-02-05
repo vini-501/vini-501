@@ -58,3 +58,9 @@ Hi, I'm Vinay Kumar, a data-driven problem solver passionate about transforming 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vini-501/vini-501/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vini-501/vini-501/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vini-501/vini-501/output/github-snake.svg" />
+</picture>
